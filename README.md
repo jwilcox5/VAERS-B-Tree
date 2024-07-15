@@ -1,1 +1,1 @@
-# VAERS-B-Tree
+- This Java project takes the COVID-19 data from the VAERS-Data-Sorter project and sorts the data using a B-Tree structure. It also allows for new COVID-19 data from VAERS to be taken in and adds it to the B-Tree.
